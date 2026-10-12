@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Context Recall Lab</string>
+    <string name="hint_message">Ask something...</string>
+    <string name="btn_send">Send</string>
+</resources>
